@@ -11,7 +11,7 @@ body {
 }
 .display-2 {
   font-family: Montserrat;
-  font-size: 3rem;
+  font-size: 2.6rem;
   line-height: 1.1;
 }
 .display-2 > .mbr-iconfont {
@@ -19,7 +19,7 @@ body {
 }
 .display-4 {
   font-family: Montserrat;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
@@ -27,7 +27,7 @@ body {
 }
 .display-5 {
   font-family: Montserrat;
-  font-size: 2rem;
+  font-size: 1.6rem;
   line-height: 1.5;
 }
 .display-5 > .mbr-iconfont {
@@ -35,7 +35,7 @@ body {
 }
 .display-7 {
   font-family: Montserrat;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
